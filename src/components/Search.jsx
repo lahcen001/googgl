@@ -24,13 +24,13 @@ export const Search = () => {
     />
    
 
-   {!text && (
-{/* <button type="button" className ="absolute top-1.5 right-4 text-2xl  text-gray-500" onClick={()=>setText("")}>
+   {/* {!text && (
+<button type="button" className ="absolute top-1.5 right-4 text-2xl  text-gray-500" onClick={()=>setText("")}>
 x
-</button> */}
+</button>
    )
 
-   }
+   } */}
   <Links />
   </div>;
 };
